@@ -1,0 +1,113 @@
+body{
+    background-color:indigo;
+    color: white;
+}
+
+.one{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.one  ul li{
+    list-style-type: none;
+    
+}
+
+.one h2{
+    color:white;
+    cursor: pointer;
+
+}
+
+.one h2:hover{
+    color: deeppink;
+}
+
+.one button{
+    padding: 10px 80px;
+    background-color: rgb(53, 53, 235);
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 0;
+
+}
+
+.one button:hover{
+     background-color: chartreuse;
+     color: black;
+}
+
+
+.two{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.two  ul li{
+    list-style-type: none;
+    
+}
+
+.two h2{
+    color:white;
+    cursor: pointer;
+
+}
+
+.two h2:hover{
+    color: deeppink;
+}
+
+.two button{
+    padding: 10px 80px;
+    background-color: rgb(53, 53, 235);
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 0;
+
+}
+
+.two button:hover{
+     background-color: chartreuse;
+     color: black;
+}
+
+.three{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.three  ul li{
+    list-style-type: none;
+    
+}
+
+.three h2{
+    color:white;
+    cursor: pointer;
+
+}
+
+.three h2:hover{
+    color: deeppink;
+}
+
+.three button{
+    padding: 10px 80px;
+    background-color: rgb(53, 53, 235);
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 0;
+
+}
+
+.three button:hover{
+     background-color: chartreuse;
+     color: black;
+}

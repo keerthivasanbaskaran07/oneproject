@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(28, 28, 39);
+    color: white;
+}
+
+
+
+
+nav{
+    list-style-type:none;
+    padding: 10px;
+    margin: 0;
+    overflow: hidden;
+    text-align:left;
+    background-color:#3b2d91;
+}
+
+nav ul li{
+    display: inline;
+    padding: 10px 20px;
+
+} 
+
+section ul li{
+
+    list-style-type: none;
+
+}
+
+nav ul li a{
+    color:white;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+nav ul li a:hover{
+    color:greenyellow;
+}
+
