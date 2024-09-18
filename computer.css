@@ -18,6 +18,10 @@ nav{
 nav ul li{
     display: inline;
     padding: 10px 20px;
+    list-style: none;
+    font-size: 19px;
+    
+
 
 } 
 
@@ -31,6 +35,9 @@ nav ul li a{
     color:white;
     cursor: pointer;
     text-decoration: none;
+    font-family: Arial;;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
 
 }
 

@@ -5,9 +5,11 @@
 }
 
 body{
-
-    background: url('network.jpg') no-repeat;
+    width: 100%;
+    background:linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url('network.jpg') no-repeat;
     background-size: cover;
+    background-position: center;
+    height: 109vh;
 }
 
 .signup-form {
